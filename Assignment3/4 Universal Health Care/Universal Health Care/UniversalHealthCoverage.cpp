@@ -61,13 +61,11 @@ bool canOfferUniversalCoverage(Set<string>& cities, Vector< Set<string> >& locat
 		}
 
 		if (canOfferUniversalCoverage(cities, locations, numHospitals, result)) {
-            locations.push_back(coveredCity);
-            return true;
-        } else {
-            locations.push_back(coveredCity);
-            return false;
-        }
+	            return true;
+      	        } 
+		locations.push_back(coveredCity);
 	}
+	
 	return false;
 }
 
