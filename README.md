@@ -1,4 +1,4 @@
-# Programming-Abstractions
+# Programming Abstractions
 
 This course is the natural successor to Programming Methodology and covers such advanced programming topics as recursion, algorithmic analysis, and data abstraction using the C++ programming language, which is similar to both C and Java.
 
