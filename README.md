@@ -9,14 +9,12 @@ CS106B is the second course in Stanford's introductory programming sequence. It 
 - **Data Abstraction:** Encapsulating data within classes and structures for clean and modular code.
 - **Advanced Data Structures:** Exploring the implementation and application of stacks, queues, linked lists, trees, graphs, and hash tables.
 ## Assignments Overview
-### Assignment 1: Warm-Up with C++
+### Assignment 1-2: Warm-Up with C++
 This introductory assignment familiarizes you with the syntax and features of C++. You'll implement basic programs to reinforce your understanding of variables, loops, and conditionals in the context of C++.
-### Assignment 2: Recursion Practice
+### Assignment 3: Recursion Practice
 In this assignment, you explore the power of recursion through various classic problems like the Sierpinski Triangle, where a large problem is broken down into smaller identical problems. It reinforces the concept of base cases and recursive calls.
-### Assignment 3: Recursive Backtracking
+### Assignment 4: Recursive Backtracking
 Here, you tackle more challenging problems that involve exploring all possible solutions, such as solving mazes or generating permutations. The assignment illustrates how recursive backtracking can be used to systematically explore and find solutions.
-### Assignment 4: Data Abstractions
-This assignment introduces data abstraction using classes and structs. You’ll work on creating custom data structures like a vector class, and implement operations like sorting and searching to understand how these structures work under the hood.
 ### Assignment 5: Linked Data Structures
 You delve into linked lists, stacks, and queues. This assignment demonstrates the advantages of dynamic memory allocation and the flexibility of linked structures compared to arrays.
 ### Assignment 6: Binary Search Trees (BSTs)
