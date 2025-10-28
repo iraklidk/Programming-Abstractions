@@ -17,8 +17,8 @@ In this assignment, you explore the power of recursion through various classic p
 Here, you tackle more challenging problems that involve exploring all possible solutions, such as solving mazes or generating permutations. The assignment illustrates how recursive backtracking can be used to systematically explore and find solutions.
 ### Assignment 5: Linked Data Structures
 You delve into linked lists, stacks, and queues. This assignment demonstrates the advantages of dynamic memory allocation and the flexibility of linked structures compared to arrays.
-### Assignment 6: Binary Search Trees (BSTs)
-In this assignment, you implement a BST, focusing on operations like insertion, deletion, and searching. The goal is to understand how trees provide efficient solutions for dynamically storing and retrieving data.
+### Assignment 6: Huffman Encoding
+This assignment focuses on data compression using Huffman coding. You’ll build a Huffman tree, generate efficient binary encodings for characters, and implement both encoding and decoding of text files.
 ### Assignment 7: Graphs and Shortest Paths
 This final assignment covers graph algorithms, such as Dijkstra’s algorithm for finding the shortest path in a weighted graph. You’ll implement these algorithms and explore their applications in real-world scenarios.
 
